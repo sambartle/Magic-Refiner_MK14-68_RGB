@@ -39,19 +39,5 @@ Use this information at your own discretion and risk.
 |  Q18 |  Q12 |  Q6  |  50  |  49  |  48  | --- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 
-## MCU-Diagram - mac/win and bt/off/cable dip switches
-
-- Bluetooth / O / Cable Mode: pin 57
-- Win - Android / Mac - iOS Mode: pin 58
-
-## MCU-Diagram - Status LED indicators - K4 v2 only
-- Caps Lock: pin 46
-- Num Lock: pin 51
-
 ## MCU Pinout - SN32F248BF
 ![MCU-Pins](./img/MCU_SN32F248BF.png)
-
-## Bluetooth module
-![k4-bluetooth-CYW20730.png](./img/K4-bt-CYW20730.png)
-
-seems to be wired like the Blitzwolf BW-KB1(https://github.com/IslamAlam/blitzwolf-bw-kb-1)
