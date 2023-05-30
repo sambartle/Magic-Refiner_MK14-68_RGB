@@ -13,13 +13,13 @@ Use this information at your own discretion and risk.
 
 ![Diagramatic Keyboard Layout](./img/magic-refiner-mk14-68-keys.png)
 
-![Key-Matrix](./img/k4-wiring.png)
+![Key-Matrix](./img/Matrix.png)
 
 ## MCU-Diagram - Keyboard matrix diagram on the MCU
 
 | --- | col | C0 | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 | C10 | C11 | C12 | C13 | C14 | C15 |
 | --- | --- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --- | --- | --- | --- | --- | --- |
-| row | pin | 31 | 30 | 29 | 28 | 27 | 26 | 25 | 24 | 23 | 22 | 21  | 20  | 19  | 18  | 17  | 16  |
+| row | pin | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26  | 27  | 28  | 29  | 30  | 31  |
 | R0  | 63  |    |    |    |    |    |    |    |    |    |    |     |     |     |     |     |     |
 | R1  | 62  |    |    |    |    |    |    |    |    |    |    |     |     |     |     |     |     |
 | R2  | 61  |    |    |    |    |    |    |    |    |    |    |     |     |     |     |     |     |
