@@ -1,5 +1,5 @@
 /*
-Copyright 2020 Adam Honse <calcprogrammer1@gmail.com>
+Copyright 2022 Luca Mazzilli <setmaat@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -17,15 +17,25 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
-/* RGB matrix size */
-#define LED_MATRIX_COLS MATRIX_COLS
-#define LED_MATRIX_ROWS MATRIX_ROWS
+
+// Backlight configuration
+#define BACKLIGHT_LEVELS 14
+
+
+//C4, C5, C6,    RBG row 0
+//C7, C8, C9     RBG row 1
+//C10, C11, C12, RBG row 2
+//B6, B7, B8,    RBG row 3
+//B9, B10, B11,  RBG row 4
+
+
+#define LED_MATRIX_ROWS 5
 #define LED_MATRIX_ROW_CHANNELS 3
 #define LED_MATRIX_ROWS_HW (LED_MATRIX_ROWS * LED_MATRIX_ROW_CHANNELS)
 
-/* RGB matrix pin               0    1,   2,   3,   4,   5,   6,   7,  8,  9, 10, 11,  12,  13  14 */
-#define LED_MATRIX_COL_PINS MATRIX_COL_PINS
-#define LED_MATRIX_ROW_PINS { B15, B14, B13,  C1,  C0, C15,  C5,  C4, C3, C8, C7, C6, C11, C10, C9 }
+#define LED_MATRIX_ROW_PINS { C4, C5, C6, C7, C8, C9, C10, C11, C12, B6, B7, B8, B9, B10, B11 }
 
-/* RGB led number */
-#define DRIVER_LED_TOTAL (61)
+#define LED_MATRIX_COLS 15
+#define LED_MATRIX_COL_PINS MATRIX_COL_PINS
+
+#define DRIVER_LED_TOTAL (68)

@@ -1,7 +1,9 @@
 {
-    "keyboard_name": "Magic Refiner MK14 RGB", 
-    "url": "", 
-    "maintainer": "sambartle", 
+    "keyboard_name": "Magic Refiner MK14-68 Keys",
+    "url": "",
+    "maintainer": "sambartle",
+    "width": 15,
+    "height": 5,
     "layouts": {
         "LAYOUT_68_ansi": {
             "layout": [
