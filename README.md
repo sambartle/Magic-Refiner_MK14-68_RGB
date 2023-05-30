@@ -13,7 +13,7 @@ Use this information at your own discretion and risk.
 
 ![Diagramatic Keyboard Layout](./img/magic-refiner-mk14-68-keys.png)
 
-![Key-Matrix](./img/k4-wiring.png)
+![Key-Matrix](./img/Matrix.png)
 
 ## MCU-Diagram - Keyboard matrix diagram on the MCU
 
