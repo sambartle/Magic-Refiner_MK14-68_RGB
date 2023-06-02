@@ -1,6 +1,6 @@
 # Magic Refiner MK14
 
-MK14 [cnszdz.com](http://en.cnszdz.com/api-service/en/keyboard.html)
+MK14 [cnszdz.com (Manufacturer)](http://en.cnszdz.com/api-service/en/keyboard.html)
 
 Keyboard Maintainer: [Sam Bartle](https://github.com/sambartle) <br>
 Based on Redragon K556 : [Adam Honse](https://github.com/CalcProgrammer1) and Aukey KM-G12 : [Luca Mazzilli](https://github.com/Maxill1) <br>
