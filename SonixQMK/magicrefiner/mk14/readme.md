@@ -2,8 +2,8 @@
 
 MK14 [cnszdz.com](http://en.cnszdz.com/api-service/en/keyboard.html)
 
-Keyboard Maintainer: [Sam Bartle](https://github.com/sambartle)
-Based on Redragon K556 : [Adam Honse](https://github.com/CalcProgrammer1) and Aukey KM-G12 : [Luca Mazzilli](https://github.com/Maxill1)
+Keyboard Maintainer: [Sam Bartle](https://github.com/sambartle) <br>
+Based on Redragon K556 : [Adam Honse](https://github.com/CalcProgrammer1) and Aukey KM-G12 : [Luca Mazzilli](https://github.com/Maxill1) <br>
 Hardware Supported: SN32F248BF
 
 Make example for this keyboard (after setting up your build environment):
